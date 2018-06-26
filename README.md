@@ -5,15 +5,14 @@
 > Together, this set of tools is an authentic representation of what you might be using day-to-day in a data scientist industry role.
 
 ## **2.1 Core Resources for Learning R**
-   > - 1 Video: What makes R different?
-       :- https://www.youtube.com/watch?time_continue=13&v=ZXrHkIz-krE
+   > - 1 Video: What makes R different? :- https://www.youtube.com/watch?time_continue=13&v=ZXrHkIz-krE
    > - 2 Link: Create your DataCamp Springboard account :- https://www.datacamp.com/promo/springboard    
    > - 3 Interactive Exercises: Introduction to R :- https://www.datacamp.com/courses/free-introduction-to-r
    > - 4 Interactive Exercises: Intermediate R :- https://www.datacamp.com/courses/intermediate-r
    > - 5 Video: Getting Started with R and RStudio = https://www.youtube.com/watch?v=lVKMsaWju8w
    > - 6 Video: Version Control with Git, Github and RStudio :- https://vimeo.com/119403805
    > - 7 Video: Getting Started with R Markdown :- https://vimeo.com/142172484
-> - ###    8 Project: Submit Your Capstone Project Proposal
+   > - 8 Project: Submit Your Capstone Project Proposal
 
         Finalize one Capstone idea based on the feedback you got from mentor(s) and peers on your Section 1 submission, and also based on your newly acquired understanding of the R ecosystem. Think of the following questions:
 
@@ -34,3 +33,10 @@
         Add this proposal to the github repository for your project. 
         Submit a link to this repository.
         Once your mentor has approved your proposal, please share the github repository URL on the community and ask for feedback.
+        
+        
+## **2.1 Core Resources for Learning R**  
+     > - 1 Interactive Exercises: Elective: Swirl Tutorial in RStudio   OPTIONAL :- https://swirlstats.com/students.html
+     > - 2 Link: RSeek: A Search Engine for R   OPTIONAL : - https://rseek.org/
+     > - 3 Link: Quick-R   OPTIONAL : - https://www.statmethods.net/
+     > - 4 Link: Style Guide for R   OPTIONAL : http://adv-r.had.co.nz/Style.html
