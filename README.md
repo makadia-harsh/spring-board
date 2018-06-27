@@ -85,50 +85,50 @@
    > - 2 Linear Regression (Week 2 of edX Analytics Edge Course)
             A: The Statistical Sommelier: An intro to linear regression
 
-                  Predicting the quality of wine  :    https://www.youtube.com/watch?v=vI3envXmyDs
+   Predicting the quality of wine  :    https://www.youtube.com/watch?v=vI3envXmyDs
 
-                  One-variable linear regression    :  https://www.youtube.com/watch?v=ZR_9sOun364
+   One-variable linear regression    :  https://www.youtube.com/watch?v=ZR_9sOun364
 
-                  Multiple linear regression    :      https://www.youtube.com/watch?v=zthosZpYBUs
+   Multiple linear regression    :      https://www.youtube.com/watch?v=zthosZpYBUs
 
-                  Linear regression in R (Datasets: wine.csv and wine_test.csv)     https://www.youtube.com/watch?v=5lcztJ9K42o
-                                                   wine.csv:https://drive.google.com/open?id=1Ic7FpqFCC-IDJ4hKqoj6_XBEtB_iie_2
-                                                   wine_test.csv:https://drive.google.com/open?id=1GwT8GcLgwckXx7opBzfq78oXDju9GWfH
+   Linear regression in R (Datasets: wine.csv and wine_test.csv)     https://www.youtube.com/watch?v=5lcztJ9K42o
+                                    wine.csv:https://drive.google.com/open?id=1Ic7FpqFCC-IDJ4hKqoj6_XBEtB_iie_2
+                                    wine_test.csv:https://drive.google.com/open?id=1GwT8GcLgwckXx7opBzfq78oXDju9GWfH
 
-                  Understanding the model    : https://www.youtube.com/watch?v=iTId8PCcqe8
+   Understanding the model    : https://www.youtube.com/watch?v=iTId8PCcqe8
 
-                  Making Predictions         : https://www.youtube.com/watch?v=Ku6CGFgba_s
+   Making Predictions         : https://www.youtube.com/watch?v=Ku6CGFgba_s
 
-                  Comparing the model to the experts        : https://www.youtube.com/watch?v=zGr0OlM8LyY
+   Comparing the model to the experts        : https://www.youtube.com/watch?v=zGr0OlM8LyY
 
-            B: Moneyball: The power of sports analytics
+   B: Moneyball: The power of sports analytics
 
-                  Intro to Baseball       : https://www.youtube.com/watch?v=0bKkGeROiPA
+   Intro to Baseball       : https://www.youtube.com/watch?v=0bKkGeROiPA
 
-                  The story of Moneyball     : https://www.youtube.com/watch?v=Ioio2KtJW34
+   The story of Moneyball     : https://www.youtube.com/watch?v=Ioio2KtJW34
 
-                  Making it to the playoffs    :    https://www.youtube.com/watch?v=jDpLyLll7_Y
+   Making it to the playoffs    :    https://www.youtube.com/watch?v=jDpLyLll7_Y
 
-                  Predicting runs            :  https://www.youtube.com/watch?v=4MRoSNqO-es
+   Predicting runs            :  https://www.youtube.com/watch?v=4MRoSNqO-es
 
-                  Using the model to make predictions    :  https://www.youtube.com/watch?v=5OLTKEW0Vbg
+   Using the model to make predictions    :  https://www.youtube.com/watch?v=5OLTKEW0Vbg
 
-                  Winning the world series         : https://www.youtube.com/watch?v=bVxW6tIPE78
+   Winning the world series         : https://www.youtube.com/watch?v=bVxW6tIPE78
 
-                  The analytics edge in sports     :     https://www.youtube.com/watch?v=N29Nf093Nwk
+   The analytics edge in sports     :     https://www.youtube.com/watch?v=N29Nf093Nwk
 
-            C: Playing Moneyball in the NBA
+   C: Playing Moneyball in the NBA
 
-                  NBA data (files: NBA_train.csv and NBA_test.csv)      https://www.youtube.com/watch?v=WfaKNYR2vAA
-                  
-                                                      NBA_train.csv:https://drive.google.com/open?id=128Y7UXjhgKEU7Kc8zvurLqdCrENSyd18
-                                                      NBA_test.csv:https://drive.google.com/open?id=1ykmNaflcj5GBiJd7q3Oy_PlVpQSiACcq
+   NBA data (files: NBA_train.csv and NBA_test.csv)      https://www.youtube.com/watch?v=WfaKNYR2vAA
 
-                  Playoffs & Wins         https://www.youtube.com/watch?v=NjnQI6R-fQU
+                                       NBA_train.csv:https://drive.google.com/open?id=128Y7UXjhgKEU7Kc8zvurLqdCrENSyd18
+                                       NBA_test.csv:https://drive.google.com/open?id=1ykmNaflcj5GBiJd7q3Oy_PlVpQSiACcq
 
-                  Points scored           https://www.youtube.com/watch?v=6pcIGhSaSWw
+   Playoffs & Wins         https://www.youtube.com/watch?v=NjnQI6R-fQU
 
-                  Making predictions      https://www.youtube.com/watch?v=JNpslqYwDs4
+   Points scored           https://www.youtube.com/watch?v=6pcIGhSaSWw
+
+Making predictions      https://www.youtube.com/watch?v=JNpslqYwDs4
             
    > - 3 Project: Linear Regression Mini-Project 
          > - linear regression zip file :- https://drive.google.com/file/d/0B8pFCL63GbotRC14NFNVdC1SLUU/view
@@ -141,55 +141,55 @@
   ## **7.3 Clustering and K-means** 
    > - 1 Clustering (Week 6 of edX Analytics Edge course)
             
-         A. Intro          https://www.youtube.com/watch?v=7t0O5XoR6ow
+A. Intro          https://www.youtube.com/watch?v=7t0O5XoR6ow
 
-         B. Recommendations worth a million: Intro to clustering           
+B. Recommendations worth a million: Intro to clustering           
 
-               Intro to Netflix     https://www.youtube.com/watch?v=tCUzRMk1sTA
+   Intro to Netflix     https://www.youtube.com/watch?v=tCUzRMk1sTA
 
-               Recommendation Systems    https://www.youtube.com/watch?v=4kKcRbJ_2yE 
+   Recommendation Systems    https://www.youtube.com/watch?v=4kKcRbJ_2yE 
 
-               Movie Data & Clustering    https://www.youtube.com/watch?v=RVXFEau-eQA
+   Movie Data & Clustering    https://www.youtube.com/watch?v=RVXFEau-eQA
 
-               Computing distances     https://www.youtube.com/watch?v=mhU-BQGv4yQ
+   Computing distances     https://www.youtube.com/watch?v=mhU-BQGv4yQ
 
-               Hierarchical Clustering    https://www.youtube.com/watch?v=Ii3U0Onrd8w
+   Hierarchical Clustering    https://www.youtube.com/watch?v=Ii3U0Onrd8w
 
-               Getting the Data (Dataset) https://www.youtube.com/watch?v=bOKmD6MOIgg
+   Getting the Data (Dataset) https://www.youtube.com/watch?v=bOKmD6MOIgg
 
-               Hierarchical clustering in R     https://www.youtube.com/watch?v=J7UHwPcpF8Y
+   Hierarchical clustering in R     https://www.youtube.com/watch?v=J7UHwPcpF8Y
 
-               The Analytics of Recommendation Systems   https://www.youtube.com/watch?v=78CTJk5RA0k
+   The Analytics of Recommendation Systems   https://www.youtube.com/watch?v=78CTJk5RA0k
 
-         C. Predictive Diagnosis: Discovering patterns for disease recognition
+C. Predictive Diagnosis: Discovering patterns for disease recognition
 
-               Heart Attacks     https://www.youtube.com/watch?v=kbLPDT9o8tk
+   Heart Attacks     https://www.youtube.com/watch?v=kbLPDT9o8tk
 
-               The Data    https://www.youtube.com/watch?v=9na-IKBHNqo
+   The Data    https://www.youtube.com/watch?v=9na-IKBHNqo
 
-               Predicting Heart Attacks using clustering    https://www.youtube.com/watch?v=NDbONg5lIqU
+   Predicting Heart Attacks using clustering    https://www.youtube.com/watch?v=NDbONg5lIqU
 
-               Understanding cluster patterns      https://www.youtube.com/watch?v=A_PBHzX5QWE
+   Understanding cluster patterns      https://www.youtube.com/watch?v=A_PBHzX5QWE
 
-               The Analytics Edge      https://www.youtube.com/watch?v=XwRiSNFL0bg
+   The Analytics Edge      https://www.youtube.com/watch?v=XwRiSNFL0bg
 
-         D. Seeing the big picture: Segmenting images to create data
+D. Seeing the big picture: Segmenting images to create data
 
-               Intro    https://www.youtube.com/watch?v=ro3xFYZfxS8
+   Intro    https://www.youtube.com/watch?v=ro3xFYZfxS8
 
-               Image segmentation   https://www.youtube.com/watch?v=yqaZqzGamL8
+   Image segmentation   https://www.youtube.com/watch?v=yqaZqzGamL8
 
-               Clustering pixels (Datasets:flowers,healthy,tumor) https://www.youtube.com/watch?v=Un3iAv_-veo
+   Clustering pixels (Datasets:flowers,healthy,tumor) https://www.youtube.com/watch?v=Un3iAv_-veo
 
-               Hierarchical clustering https://www.youtube.com/watch?v=OjA9Y_DTqjU
+   Hierarchical clustering https://www.youtube.com/watch?v=OjA9Y_DTqjU
 
-               MRI image   https://www.youtube.com/watch?v=_fhQguYNbug
+   MRI image   https://www.youtube.com/watch?v=_fhQguYNbug
 
-               K-means clustering   https://www.youtube.com/watch?v=xguOoNMWyWA
+   K-means clustering   https://www.youtube.com/watch?v=xguOoNMWyWA
 
-               Detecting tumors  https://www.youtube.com/watch?v=2XUg-sSiAto
+   Detecting tumors  https://www.youtube.com/watch?v=2XUg-sSiAto
 
-               Comparing methods https://www.youtube.com/watch?v=ChE3i3xr9M8
+   Comparing methods https://www.youtube.com/watch?v=ChE3i3xr9M8
 
             
    > - 2    Project: K-Means Clustering Mini-Project
